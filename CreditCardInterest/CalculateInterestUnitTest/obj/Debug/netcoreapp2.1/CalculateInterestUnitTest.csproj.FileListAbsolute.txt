@@ -1,0 +1,17 @@
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CalculateInterestUnitTest.deps.json
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CalculateInterestUnitTest.runtimeconfig.json
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CalculateInterestUnitTest.runtimeconfig.dev.json
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CalculateInterestUnitTest.dll
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CreditCardInterest.dll
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CreditCardInterest.pdb
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.csprojAssemblyReference.cache
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.AssemblyInfoInputs.cache
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.AssemblyInfo.cs
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.csproj.CopyComplete
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\bin\Debug\netcoreapp2.1\CalculateInterestUnitTest.pdb
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.dll
+C:\Users\662292\source\repos\CreditCardInterest\CalculateInterestUnitTest\obj\Debug\netcoreapp2.1\CalculateInterestUnitTest.pdb

@@ -1,0 +1,11 @@
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\bin\Debug\netcoreapp2.1\CreditCardInterest.deps.json
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\bin\Debug\netcoreapp2.1\CreditCardInterest.runtimeconfig.json
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\bin\Debug\netcoreapp2.1\CreditCardInterest.runtimeconfig.dev.json
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\bin\Debug\netcoreapp2.1\CreditCardInterest.dll
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\bin\Debug\netcoreapp2.1\CreditCardInterest.pdb
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\obj\Debug\netcoreapp2.1\CreditCardInterest.csprojAssemblyReference.cache
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\obj\Debug\netcoreapp2.1\CreditCardInterest.csproj.CoreCompileInputs.cache
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\obj\Debug\netcoreapp2.1\CreditCardInterest.AssemblyInfoInputs.cache
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\obj\Debug\netcoreapp2.1\CreditCardInterest.AssemblyInfo.cs
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\obj\Debug\netcoreapp2.1\CreditCardInterest.dll
+C:\Users\662292\source\repos\CreditCardInterest\CreditCardInterest\obj\Debug\netcoreapp2.1\CreditCardInterest.pdb
